@@ -74,7 +74,7 @@ async def start(client, message):
         )
 
 scheduler = AsyncIOScheduler(timezone=TIMEZONE)
-scheduler.add_job(group_close, trigger="cron", hour=10, minute=45)
+scheduler.add_job(group_close, trigger="cron", hour=10, minute=55)
 scheduler.add_job(group_open, trigger="cron", hour=6, minute=59)
 scheduler.start()
 
