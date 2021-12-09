@@ -20,7 +20,7 @@
 		},
                 "TIMEZONE": {
                         "description": "Your TimeZone!",
-                        "value": "Asia/Kolkata",
+                        "value": "Europe/Kiev",
                         "required": false
                 }
 	},
