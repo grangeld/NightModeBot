@@ -7,7 +7,7 @@
 		"bot"
 	],
         "stack": "container",
-	"repository": "https://github.com/Reeshuxd/NightModeBot",
+	"repository": "https://github.com/grangeld/NightModeBot",
 	"success_url": "https://t.me/DrxChats",
 	"env": {
 		"TOKEN": {
